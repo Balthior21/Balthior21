@@ -1,12 +1,6 @@
-👋 Ludovic Kuntzmann 👋
+# 👋 Ludovic Kuntzmann 👋
 
-SharePoint Production Engineer
-
-MCSE SharePoint 
-
-MSCA Office 365 
-
-
+### SharePoint Production Engineer /  MCSE SharePoint / MSCA Office 365 
 
 
 
